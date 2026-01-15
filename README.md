@@ -2,6 +2,11 @@
 
 For [sol](https://github.com/wantnotshould/sol)
 
+> [!WARNING]
+> This project is ready for basic testing.
+>
+> If you wish to update or extend it, please do so in a fork.
+
 ## Install
 
 ```bash
